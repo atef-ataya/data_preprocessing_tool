@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+United States,33,65000,No
+Canada,47,35000,No
+United Kingdom,50,25000,Yes
+Canada,56,55000,Yes
+United Kingdom,25,,No
+United States,15,20000,No
+United Kingdom,,15000,Yes
+United States,47,10000,Yes
+United Kingdom,32,90000,No
+United States,62,48000,Yes
